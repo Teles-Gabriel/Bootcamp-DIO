@@ -1,4 +1,4 @@
-const numero = 0;
+const numero = 3;
 const numeroPar = (numero % 2) === 0;
 
 if(numero === 0){
